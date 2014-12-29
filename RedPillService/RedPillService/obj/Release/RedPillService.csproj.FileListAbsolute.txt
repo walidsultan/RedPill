@@ -1,0 +1,5 @@
+C:\Users\Walid\Desktop\RedPillService\RedPillService\bin\WalidAly.dll
+C:\Users\Walid\Desktop\RedPillService\RedPillService\bin\WalidAly.pdb
+C:\Users\Walid\Desktop\RedPillService\RedPillService\obj\Release\WalidAly.dll
+C:\Users\Walid\Desktop\RedPillService\RedPillService\obj\Release\WalidAly.pdb
+C:\Users\Walid\Desktop\RedPillService\RedPillService\obj\Release\RedPillService.csprojResolveAssemblyReference.cache

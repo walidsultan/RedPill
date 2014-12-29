@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAI29KgjNwREmpxmxmBSdmUQAAAAACAAAAAAAQZgAAAAEAACAAAACtghWcjjAWYqGhIGGdJfkwc47v4lRmGcp0S1uj7DeM8QAAAAAOgAAAAAIAACAAAADZjcfCh2qRdA9/1byQeC02ZW22aTf54vU+Gk4ZTXjSZCAAAAAf4virx04ofj5zsJSH5OQJ1vjXRLT+xOqamOq/0ytpwkAAAADegfCKVgsG4wwq57gz+Q8Li8SzIYtM4d7UuX2T3VFePhTOJqtcGi43EDaORhSkk+8GoJ93v2eEuJmKroA8ne+3</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/RedPillService.dll">
+      <publishTime>12/24/2014 01:15:32</publishTime>
+    </File>
+    <File Include="bin/WalidAly.dll">
+      <publishTime>12/25/2014 21:26:47</publishTime>
+    </File>
+    <File Include="RedPill.svc">
+      <publishTime>12/24/2014 02:06:19</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/25/2014 21:26:52</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

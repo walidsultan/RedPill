@@ -1,0 +1,4 @@
+C:\Users\Walid\Desktop\RedPillService\RedPillService\bin\WalidAly.dll
+C:\Users\Walid\Desktop\RedPillService\RedPillService\bin\WalidAly.pdb
+C:\Users\Walid\Desktop\RedPillService\RedPillService\obj\Debug\WalidAly.dll
+C:\Users\Walid\Desktop\RedPillService\RedPillService\obj\Debug\WalidAly.pdb

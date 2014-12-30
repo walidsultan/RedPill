@@ -2,3 +2,8 @@ C:\Users\Walid\Desktop\RedPillService\RedPillService\bin\WalidAly.dll
 C:\Users\Walid\Desktop\RedPillService\RedPillService\bin\WalidAly.pdb
 C:\Users\Walid\Desktop\RedPillService\RedPillService\obj\Debug\WalidAly.dll
 C:\Users\Walid\Desktop\RedPillService\RedPillService\obj\Debug\WalidAly.pdb
+C:\Users\Walid\Documents\GitHub\RedPill\RedPillService\RedPillService\bin\knockknock.readify.net.dll
+C:\Users\Walid\Documents\GitHub\RedPill\RedPillService\RedPillService\bin\knockknock.readify.net.pdb
+C:\Users\Walid\Documents\GitHub\RedPill\RedPillService\RedPillService\obj\Debug\RedPillService.csprojResolveAssemblyReference.cache
+C:\Users\Walid\Documents\GitHub\RedPill\RedPillService\RedPillService\obj\Debug\knockknock.readify.net.dll
+C:\Users\Walid\Documents\GitHub\RedPill\RedPillService\RedPillService\obj\Debug\knockknock.readify.net.pdb

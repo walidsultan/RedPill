@@ -8,15 +8,14 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Web.Services;
 
-namespace WalidAly
+namespace knockknock.readify.net
 {
     [ServiceBehavior(Namespace = "http://KnockKnock.readify.net")]
     public class RedPill : IRedPill
     {
         public Guid WhatIsYourToken()
         {
-            return Guid.Empty;
-            //return new Guid("6e3f314c-b738-4dbd-945b-a3fe5461cf7a");
+            return new Guid("6e3f314c-b738-4dbd-945b-a3fe5461cf7a");
         }
 
         public long FibonacciNumber(long n)

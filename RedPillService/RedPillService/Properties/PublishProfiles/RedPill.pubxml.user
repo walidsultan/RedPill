@@ -11,6 +11,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAI29KgjNwREmpxmxmBSdmUQAAAAACAAAAAAAQZgAAAAEAACAAAACtghWcjjAWYqGhIGGdJfkwc47v4lRmGcp0S1uj7DeM8QAAAAAOgAAAAAIAACAAAADZjcfCh2qRdA9/1byQeC02ZW22aTf54vU+Gk4ZTXjSZCAAAAAf4virx04ofj5zsJSH5OQJ1vjXRLT+xOqamOq/0ytpwkAAAADegfCKVgsG4wwq57gz+Q8Li8SzIYtM4d7UuX2T3VFePhTOJqtcGi43EDaORhSkk+8GoJ93v2eEuJmKroA8ne+3</EncryptedPassword>
   </PropertyGroup>
   <ItemGroup>
+    <File Include="bin/knockknock.readify.net.dll">
+      <publishTime>12/30/2014 02:30:52</publishTime>
+    </File>
     <File Include="bin/RedPillService.dll">
       <publishTime>12/24/2014 01:15:32</publishTime>
     </File>
@@ -21,7 +24,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>12/24/2014 02:06:19</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>12/25/2014 21:26:52</publishTime>
+      <publishTime>12/30/2014 02:30:57</publishTime>
     </File>
   </ItemGroup>
 </Project>

@@ -6,7 +6,7 @@ using System.ServiceModel;
 using System.ServiceModel.Web;
 using System.Text;
 
-namespace WalidAly
+namespace knockknock.readify.net
 {
     [ServiceContract(Namespace = "http://KnockKnock.readify.net")]
     public interface IRedPill

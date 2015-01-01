@@ -8,3 +8,8 @@ C:\Users\Walid\Documents\GitHub\RedPill\RedPillService\RedPillService\bin\knockk
 C:\Users\Walid\Documents\GitHub\RedPill\RedPillService\RedPillService\obj\Release\RedPillService.csprojResolveAssemblyReference.cache
 C:\Users\Walid\Documents\GitHub\RedPill\RedPillService\RedPillService\obj\Release\knockknock.readify.net.dll
 C:\Users\Walid\Documents\GitHub\RedPill\RedPillService\RedPillService\obj\Release\knockknock.readify.net.pdb
+C:\Users\Walid\Documents\GitHub\RedPill\redpill\RedPillService\RedPillService\bin\knockknock.readify.net.RedPillService.dll
+C:\Users\Walid\Documents\GitHub\RedPill\redpill\RedPillService\RedPillService\bin\knockknock.readify.net.RedPillService.pdb
+C:\Users\Walid\Documents\GitHub\RedPill\redpill\RedPillService\RedPillService\obj\Release\RedPillService.csprojResolveAssemblyReference.cache
+C:\Users\Walid\Documents\GitHub\RedPill\redpill\RedPillService\RedPillService\obj\Release\knockknock.readify.net.RedPillService.dll
+C:\Users\Walid\Documents\GitHub\RedPill\redpill\RedPillService\RedPillService\obj\Release\knockknock.readify.net.RedPillService.pdb

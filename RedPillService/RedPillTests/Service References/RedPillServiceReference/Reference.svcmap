@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="ba25ed45-9c45-4642-a8ce-124f3b281d9d" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://walidaly.net/redpill.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="RedPill.xsd" MetadataType="Schema" ID="d4933261-05a1-4fda-8136-85a22d4eebed" SourceId="1" SourceUrl="http://walidaly.net/RedPill.svc?xsd=xsd0" />
+    <MetadataFile FileName="RedPill.wsdl" MetadataType="Wsdl" ID="48c77bd7-5502-4177-8bae-14486f91e4e2" SourceId="1" SourceUrl="http://walidaly.net/RedPill.svc?wsdl" />
+    <MetadataFile FileName="RedPill.disco" MetadataType="Disco" ID="8b0739af-34eb-418a-884b-8f82f2faa89c" SourceId="1" SourceUrl="http://walidaly.net/RedPill.svc?disco" />
+    <MetadataFile FileName="RedPill1.xsd" MetadataType="Schema" ID="d1020c51-52d0-4d71-bab8-26dd8dbb5483" SourceId="1" SourceUrl="http://walidaly.net/RedPill.svc?xsd=xsd1" />
+    <MetadataFile FileName="RedPill2.xsd" MetadataType="Schema" ID="dfd327ec-986d-48d0-907c-82d9c74622ff" SourceId="1" SourceUrl="http://walidaly.net/RedPill.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

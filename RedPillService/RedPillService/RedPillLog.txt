@@ -1,0 +1,252 @@
+Function Name: FibonacciNumber
+
+Arguments: 12
+
+Result: 144
+
+
+
+Function Name: FibonacciNumber
+
+Arguments: 56
+
+Result: 225851433717
+
+
+
+Function Name: FibonacciNumber
+
+Arguments: 0
+
+Result: 0
+
+
+
+Function Name: FibonacciNumber
+
+Arguments: 3
+
+Result: 2
+
+
+
+Function Name: FibonacciNumber
+
+Arguments: 1
+
+Result: 1
+
+
+
+Function Name: FibonacciNumber
+
+Arguments: 2
+
+Result: 1
+
+
+
+Function Name: FibonacciNumber
+
+Arguments: 3
+
+Result: 2
+
+
+
+Function Name: FibonacciNumber
+
+Arguments: 4
+
+Result: -3
+
+
+
+Function Name: FibonacciNumber
+
+Arguments: 8
+
+Result: -21
+
+
+
+IP Address: ::1
+
+Function Name: WhatShapeIsThis
+
+Arguments: 2147483647,2147483647,2147483647
+
+Result: Error
+
+
+
+IP Address: ::1
+
+Function Name: WhatShapeIsThis
+
+Arguments: 2147483647,2147483647,2147483647
+
+Result: Error
+
+
+
+IP Address: ::1
+
+Function Name: WhatShapeIsThis
+
+Arguments: 2147483647,2147483647,2147483647
+
+Result: Error
+
+
+
+IP Address: ::1
+
+Function Name: WhatShapeIsThis
+
+Arguments: 2147483647,2147483647,2147483647
+
+Result: Equilateral
+
+
+
+IP Address: ::1
+
+Function Name: ReverseWords
+
+Arguments:  Leading space
+
+Result: gnidaeL ecaps
+
+
+
+IP Address: ::1
+
+Function Name: ReverseWords
+
+Arguments:  Leading Space
+
+Result: gnidaeLecapS
+
+
+
+IP Address: ::1
+
+Function Name: ReverseWords
+
+Arguments:  LEading Space
+
+Result: gnidaEL ecapS
+
+
+
+IP Address: ::1
+
+Function Name: ReverseWords
+
+Arguments:  LEading Space
+
+Result: gnidaEL ecapS
+
+
+
+IP Address: ::1
+
+Function Name: ReverseWords
+
+Arguments:  Leading Space
+
+Result:   gnidaeL ecapS
+
+
+
+IP Address: ::1
+
+Function Name: ReverseWords
+
+Arguments:  Leading Space  
+
+Result:   gnidaeL ecapS  
+
+
+
+IP Address: ::1
+
+Function Name: ReverseWords
+
+Arguments:  leading space
+
+Result:   gnidael ecaps
+
+
+
+IP Address: ::1
+
+Function Name: ReverseWords
+
+Arguments:  leading  space
+
+Result:   gnidael  ecaps
+
+
+
+IP Address: ::1
+
+Function Name: ReverseWords
+
+Arguments:  Leading Space
+
+Result:   gnidaeL ecapS
+
+
+
+IP Address: ::1
+
+Function Name: ReverseWords
+
+Arguments:  Leading Space
+
+Result:   gnidaeL ecapS
+
+
+
+IP Address: ::1
+
+Function Name: ReverseWords
+
+Arguments:  Leading Space
+
+Result:  gnidaeLecapS
+
+
+
+IP Address: ::1
+
+Function Name: ReverseWords
+
+Arguments:  Leading Space
+
+Result:   gnidaeLecapS
+
+
+
+IP Address: ::1
+
+Function Name: ReverseWords
+
+Arguments:  Leading Space
+
+Result:  gnidaeL ecapS
+
+
+
+IP Address: ::1
+
+Function Name: ReverseWords
+
+Arguments:  Leading  Space
+
+Result:  gnidaeL  ecapS
+
+
+

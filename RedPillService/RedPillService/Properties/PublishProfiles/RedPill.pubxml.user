@@ -9,13 +9,14 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <LastUsedPlatform>Any CPU</LastUsedPlatform>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAI29KgjNwREmpxmxmBSdmUQAAAAACAAAAAAAQZgAAAAEAACAAAACtghWcjjAWYqGhIGGdJfkwc47v4lRmGcp0S1uj7DeM8QAAAAAOgAAAAAIAACAAAADZjcfCh2qRdA9/1byQeC02ZW22aTf54vU+Gk4ZTXjSZCAAAAAf4virx04ofj5zsJSH5OQJ1vjXRLT+xOqamOq/0ytpwkAAAADegfCKVgsG4wwq57gz+Q8Li8SzIYtM4d7UuX2T3VFePhTOJqtcGi43EDaORhSkk+8GoJ93v2eEuJmKroA8ne+3</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ftp.walidaly.net/walidaly.net/wwwroot</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/knockknock.readify.net.dll">
       <publishTime>12/30/2014 02:30:52</publishTime>
     </File>
     <File Include="bin/knockknock.readify.net.RedPillService.dll">
-      <publishTime>01/01/2015 04:28:39</publishTime>
+      <publishTime>01/18/2015 18:09:04</publishTime>
     </File>
     <File Include="bin/RedPillService.dll">
       <publishTime>12/24/2014 01:15:32</publishTime>
@@ -24,10 +25,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>12/25/2014 21:26:47</publishTime>
     </File>
     <File Include="RedPill.svc">
-      <publishTime>01/01/2015 02:31:07</publishTime>
+      <publishTime>01/18/2015 18:04:05</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>01/01/2015 04:29:31</publishTime>
+      <publishTime>01/18/2015 18:09:18</publishTime>
     </File>
   </ItemGroup>
 </Project>

@@ -13,3 +13,9 @@ C:\Users\Walid\Documents\GitHub\RedPill\redpill\RedPillService\RedPillService\bi
 C:\Users\Walid\Documents\GitHub\RedPill\redpill\RedPillService\RedPillService\obj\Release\RedPillService.csprojResolveAssemblyReference.cache
 C:\Users\Walid\Documents\GitHub\RedPill\redpill\RedPillService\RedPillService\obj\Release\knockknock.readify.net.RedPillService.dll
 C:\Users\Walid\Documents\GitHub\RedPill\redpill\RedPillService\RedPillService\obj\Release\knockknock.readify.net.RedPillService.pdb
+C:\Users\wsultan\Desktop\RedPill\RedPillService\RedPillService\bin\knockknock.readify.net.RedPillService.dll.config
+C:\Users\wsultan\Desktop\RedPill\RedPillService\RedPillService\bin\knockknock.readify.net.RedPillService.dll
+C:\Users\wsultan\Desktop\RedPill\RedPillService\RedPillService\bin\knockknock.readify.net.RedPillService.pdb
+C:\Users\wsultan\Desktop\RedPill\RedPillService\RedPillService\obj\Release\RedPillService.csprojResolveAssemblyReference.cache
+C:\Users\wsultan\Desktop\RedPill\RedPillService\RedPillService\obj\Release\knockknock.readify.net.RedPillService.dll
+C:\Users\wsultan\Desktop\RedPill\RedPillService\RedPillService\obj\Release\knockknock.readify.net.RedPillService.pdb

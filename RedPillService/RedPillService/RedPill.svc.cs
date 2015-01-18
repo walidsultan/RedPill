@@ -78,7 +78,7 @@ namespace knockknock.readify.net
             if (s == null) throw new ArgumentNullException("s", "Value cannot be null.");
             if (s == string.Empty) return string.Empty;
 
-            string[] words = Regex.Split(s, " ");
+            string[] words = s.Split(' ');
             string reversedString = string.Empty;
             foreach (string word in words)
             {
